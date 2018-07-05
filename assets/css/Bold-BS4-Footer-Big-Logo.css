@@ -1,0 +1,131 @@
+#myFooter {
+  background-color:#004b87;
+  color:white;
+  padding-top:30px;
+}
+
+#myFooter .footer-copyright {
+  background-color:#333333;
+  padding-top:3px;
+  padding-bottom:3px;
+  text-align:center;
+}
+
+#myFooter .row {
+  margin-bottom:0px;
+}
+
+#myFooter .footer-copyright p {
+  margin:10px;
+  color:#ccc;
+}
+
+#myFooter ul {
+  list-style-type:none;
+  padding-left:0;
+  line-height:1.7;
+}
+
+#myFooter h5 {
+  font-size:18px;
+  color:white;
+  font-weight:bold;
+  margin-top:30px;
+}
+
+#myFooter a {
+  color:#d2d1d1;
+  text-decoration:none;
+}
+
+#myFooter a:hover, #myFooter a:focus {
+  text-decoration:none;
+  color:white;
+}
+
+#myFooter .social-networks {
+  text-align:center;
+  padding-top:30px;
+  padding-bottom:16px;
+}
+
+#myFooter .social-networks a {
+  font-size:32px;
+  color:#f9f9f9;
+  padding:10px;
+  transition:0.2s;
+}
+
+#myFooter .social-networks a:hover {
+  text-decoration:none;
+}
+
+#myFooter .facebook:hover {
+  color:#0077e2;
+}
+
+#myFooter .google:hover {
+  color:#ef1a1a;
+}
+
+#myFooter .twitter:hover {
+  color:#00aced;
+}
+
+#myFooter .linkedin:hover {
+  color:#007BB6;
+}
+
+#myFooter .btn {
+  color:white;
+  background-color:#d84b6b;
+  border-radius:20px;
+  border:none;
+  width:150px;
+  display:block;
+  margin:0 auto;
+  margin-top:10px;
+  line-height:25px;
+}
+
+@media screen and (max-width: 767px) {
+  #myFooter {
+    text-align:center;
+  }
+}
+
+#nav-position {
+  margin-right:10%;
+}
+
+#AFSJS-tag {
+  color:red;
+}
+
+#familystyle {
+  width:100%;
+  font-family:Raleway, sans-serif;
+  color:#ffffff;
+  margin-bottom:0px;
+  padding-right:25%;
+  padding-left:25%;
+  padding-top:29px;
+  margin-top:58px;
+  font-size:21px;
+}
+
+.jumbotron.hero-404 {
+  color:#fff;
+  height:auto;
+  background-repeat:no-repeat;
+  max-width:100%;
+  background-size:cover;
+  /*padding-top:250px;*/
+  /*padding-bottom:250px;*/
+}
+
+#hero-404text {
+  color:red;
+  margin-left:8%;
+}
+

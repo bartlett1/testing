@@ -1,0 +1,26 @@
+div.jumbotron.hero-technology {
+  color:#fff;
+  text-align:left;
+  background:url('../../assets/img/Americans%20for%20Family%20SPOT%20Horiz.svg');
+  background-size:cover;
+  background-position:left center;
+  padding-top:100px;
+  padding-bottom:100px;
+  background-attachment:local;
+  background-repeat:no-repeat;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  /*text-shadow:0 2px 2px rgba(0,0,0,0.3);*/
+  color:#fff;
+  font-weight:500;
+}
+
+p.hero-subtitle {
+  max-width:600px;
+  margin:25px auto;
+  padding:10px 15px;
+  color:#fff;
+  font-weight:500;
+}
+

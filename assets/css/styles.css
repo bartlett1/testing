@@ -1,0 +1,71 @@
+.btn-primary {
+  color:#fff;
+  background-color:red;
+  border:2px solid green;
+}
+
+.btn-primary {
+  color:#fff;
+  background-color:#007bff;
+  border-color:#007bff;
+}
+
+#first {
+  background:red;
+  border:3px blue;
+}
+
+.herobutton {
+  background:transparent;
+  color:white;
+  border:10px;
+  border-color:red;
+}
+
+#herobutton {
+  background-color:green;
+  color:white;
+  border:3px solid red;
+  padding:5px;
+}
+
+.hero-style {
+  font-size:40px;
+  margin-left:8%;
+}
+
+.yes {
+  color:#e41e2d;
+  font-size:50px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color:#e41e4d;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color:#1b1b1b;
+}
+
+@media (min-width:768px) {
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding-right:.5rem;
+    padding-left:.5rem;
+    margin-right:25px;
+  }
+}
+
+#family {
+  margin-bottom:-116px;
+  margin-top:147px;
+  color:#ffffff;
+  font-style:italic;
+  font-weight:normal;
+  height:auto;
+}
+
+.text-why {
+  text-align:center;
+  font-weight:300;
+}
+
